@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"$SECUREAI_HOME/adapters/claude/lib/session-hook.js\" start --platform claude --format claude",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

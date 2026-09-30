@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "secureai": {
+      "command": "node",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/lib/mcp-server.js", "--platform", "claude"]
+    }
+  }
+}

@@ -5,6 +5,6 @@
   "description": "Development preview of the Claude Code adapter for separately installed SecureAI Core; not yet verified for production use.",
   "author": { "name": "LightningFlow" },
   "homepage": "https://lightningflow.ai/secureai/",
-  "repository": "https://github.com/TRIPLETHREEGLOBAL/secureai-claude-plugin",
+  "repository": "https://github.com/TRIPLETHREEGLOBAL/secureai-claude-code",
   "privacyPolicyUrl": "https://lightningflow.ai/privacy/"
 }
